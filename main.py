@@ -18,12 +18,12 @@ The answers are entered via the keyboard.
 from calculate_discounted_profits import calculate_discounted_profits
 from calculate_portfolio_profits import calculate_portfolio_profits
 
-update_button = input("Update input values? Please type 'yes' or 'no':  ")
-if update_button == "yes":
+update_input_values = input("Update input values? Please type 'yes' or 'no':  ")
+if update_input_values == "yes":
     calculate_discounted_profits()
     print("Input values updated")
     calculate_portfolio_profits()
-elif update_button == "no":
+elif update_input_values == "no":
     calculate_portfolio_profits()
 else:
     print("No correct input for input update, please try again")
