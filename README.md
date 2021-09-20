@@ -42,10 +42,10 @@ The project calculates future company profits:
 * [Matplotlib](https://matplotlib.org): Version 3.4.3
 ***
 ## Usage
-Run main module. The choice 
-* whether the input data should be updated and 
-* which portfolio should be selected 
-
-are performed via keyboard input. 
+* Install numpy and matplotlib. 
+* Run main module. The code asks in the console 
+  * if the input data should be updated (answer with "yes" or "no") and 
+  * which portfolio should be selected (answer with "1", "2" or "3"). 
+* The input data in "input values" and "portfolio values" as well as their number can be changed. It is important that the number of entries is the same in all input files. 
 ***
 
