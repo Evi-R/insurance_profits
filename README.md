@@ -47,6 +47,6 @@ The project calculates future company profits:
   * if the input data should be updated (answer with "yes" or "no") and 
   * which portfolio should be selected (answer with "1", "2" or "3"). 
 * The input data in "input values" and "portfolio values" as well as their number can be changed. It is important that the number of entries is the same in all input files. 
-* The file "insurance_profits_python_test.xlsx contains an Excel calculation of all values and can be used as a test as long as the values do not become too complicated. 
+* The file "insurance_profits_python_test.xlsx" contains an Excel calculation of all values and can be used as a test as long as the values do not become too complicated. 
 ***
 
